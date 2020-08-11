@@ -2,6 +2,9 @@ language: node_js
 node_js:
   - "8"
 dist: trusty
+addons:
+  chrome: stable
+  hostname: localhost
 services:
   - mongodb
   - redis-server
