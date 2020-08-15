@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/muhammed-salman/AdvanceNodeCourseWork.svg?branch=master)](https://travis-ci.org/muhammed-salman/AdvanceNodeCourseWork)
-
 ## BlogAdvanceNode
 - This is a basic blog built using React & Node  JS
 - It uses AWS S3 for image upload
